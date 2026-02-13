@@ -1,9 +1,9 @@
 ---
 title: "Associative memory improvement after 5 days of magnetic stimulation: A replication experiment with active controls"
 collection: publications
-category: Peer Review Journal 
+category: manuscripts
 permalink: /publication/2021-08-15-paper-title-Associative
-excerpt: 'This paper is about fixing template issue #693.'
+# excerpt: 'This paper is about fixing template issue #693.'
 date: 2021-08-15
 venue: 'Brain Research'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S000689932100367X'

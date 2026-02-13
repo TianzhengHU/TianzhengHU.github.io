@@ -1,7 +1,7 @@
 ---
 title: "BrainIB++: Leveraging graph neural networks and information bottleneck for functional brain biomarkers in schizophrenia"
 collection: publications
-category: manuscripts
+category: Peer Review Journal 
 permalink: /publication/2026-02-01-paper-title-BrainIB++
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2026-02-01

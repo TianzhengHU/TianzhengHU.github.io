@@ -1,7 +1,7 @@
 ---
 title: "A landmark-based approach to locate symptom-specific transcranial magnetic stimulation targets of depression"
 collection: publications
-category: manuscripts
+category: Peer Review Journal 
 permalink: /publication/2022-09-02-paper-title-A-landmark-based
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-09-02
